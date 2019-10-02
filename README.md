@@ -1,5 +1,5 @@
 # Natural Statistics ICDL Paper 2019 - Math Model Underlying the Simulation
-Here's the code mathematically validating the analyses used in [Elmlinger, Schwade, & Goldstein 2019](https://github.com/selmling/Natural_Statistics_Simulation/blob/master/Elmlinger_Schwade_%26_Goldstein_ICDL_2019.pdf)
+Here's the code mathematically validating the analyses used in [Elmlinger, Schwade, & Goldstein 2019](https://www.researchgate.net/profile/Steven_Elmlinger/publication/336161846_Babbling_elicits_simplified_caregiver_speech_Findings_from_natural_interaction_and_simulation/links/5d9402bc299bf10cff1f62a0/Babbling-elicits-simplified-caregiver-speech-Findings-from-natural-interaction-and-simulation.pdf?_sg%5B0%5D=_3TM71dExMILfFl43mZbSLmmtqAl43d-V9hWNdbdG4t8NalephU0bx3uOcK6xxk8F4NJteUvoXS5Dp3CaLyUHQ.aph7E9W6ZqFQ3OdudCkjSsjcYm1pbDsv47IZAUvMv6JY4n9s0OlSvQCxoqadoLc6oX-WuboDhLxg2tVMKv94lg&_sg%5B1%5D=AM3ZNY7bXt9WfubCW6_7NaQMD34vyeDfpVWOuJKYZf9WKNuNEWAHZyWotntSTbv7IHNCLBNekJXx1hoWd3KH31HHeN5Uw_ZIDP15yfwJavx0.aph7E9W6ZqFQ3OdudCkjSsjcYm1pbDsv47IZAUvMv6JY4n9s0OlSvQCxoqadoLc6oX-WuboDhLxg2tVMKv94lg&_iepl=)
 
 Babbling elicits simplified caregiver speech: Findings from natural interaction and simulation
 
